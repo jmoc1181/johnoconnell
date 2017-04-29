@@ -1,0 +1,53 @@
+.header {
+color:#efeee7;
+background-color: black;
+font-size: 35px;
+text-align: center;
+font-family: Georgia; 
+padding-top: 15px;
+padding-bottom: 15px;
+}
+
+h2, h3 {
+	font-family: Georgia; 
+}
+
+body {
+	background-color: #efeee7;
+	margin: 0;
+	padding: 0;
+	font-family: "Georgia", "Times New Roman",
+	font-size: 18px;
+	line-height: 150%
+}
+
+a {
+	color: #d21034;
+}
+
+.container {
+	width: 1020px;
+	margin: 0 auto;
+	
+}
+
+img {
+	float: left;
+	margin-right: 15px;
+}
+
+.main {
+	float: left;
+	width: 70%
+
+}
+
+.contact {
+	float: left;
+	width: 30%
+}
+
+
+
+
+
